@@ -1,2 +1,2 @@
 # demo-code
-this is a code for the development 
+this is a code for the development.
